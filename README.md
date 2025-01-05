@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋, I'm Nandini Voleti
+A passionate Data Analyst
 
-<!--
-**voletinandini06/voletinandini06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Data Migration and Data Visualization Projects**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Azure Synapse Analytics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Data Analytics Projects using Power BI and Tableau, Machine Learning initiatives leveraging Python and SQL**
+
+- 🤝 I’m looking for help with **Advanced SQL Query Optimization, Cloud Data Integration Best Practices**
+
+- 👨‍💻 All of my projects are available at [https://github.com/voletinandini06?tab=projects](https://github.com/voletinandini06?tab=projects)
+
+- 💬 Ask me about **Advanced Power BI and DAX Techniques Azure Synapse Analytics,Data Factory,Data Governance Strategies**
+
+- 📫 How to reach me **https://www.linkedin.com/in/nandini-voleti-063653252**
+
+- ⚡ Fun fact **I believe yoga isn’t just for the mat—it’s also for balancing complex datasets! 🧘‍♀️📊**
