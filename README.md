@@ -1,7 +1,7 @@
 Hi 👋, I'm Nandini Voleti
 A passionate Data Analyst
 
-- 🔭 I’m currently working on **Data Migration and Data Visualization Projects**
+- 🔭 I’m currently working on **Advanced SQL techniques and Data Visualization Projects**
 
 - 🌱 I’m currently learning **Azure Synapse Analytics**
 
