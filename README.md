@@ -1,5 +1,6 @@
 Hi 👋, I'm Nandini Voleti
-A passionate Data Analyst
+
+- A passionate Data Analyst
 
 - 🔭 I’m currently working on **Advanced SQL techniques and Data Visualization Projects**
 
